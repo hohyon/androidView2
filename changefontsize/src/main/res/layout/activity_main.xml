@@ -28,6 +28,12 @@
         android:text="초기화하기" />
 
     <Button
+        android:id="@+id/reset01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="초기화하기2" />
+
+    <Button
         android:id="@+id/small"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
