@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/androidView.iml" filepath="$PROJECT_DIR$/androidView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/changefontsize/changefontsize.iml" filepath="$PROJECT_DIR$/changefontsize/changefontsize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gravity_align/gravity_align.iml" filepath="$PROJECT_DIR$/gravity_align/gravity_align.iml" />
       <module fileurl="file://$PROJECT_DIR$/layout/layout.iml" filepath="$PROJECT_DIR$/layout/layout.iml" />
     </modules>
   </component>

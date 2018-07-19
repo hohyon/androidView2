@@ -1,1 +1,1 @@
-include ':app', ':changefontsize', ':layout'
+include ':app', ':changefontsize', ':layout', ':gravity_align'
